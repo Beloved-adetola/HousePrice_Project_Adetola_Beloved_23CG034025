@@ -1,0 +1,6 @@
+Name: Adetola Beloved Inioluwa
+Matric Number: 23CG034025
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method: Pickle
+Live URL: https://your-streamlit-link
+GitHub Repository: https://github.com/Beloved-adetola/HousePrice_Project_Adetola_Beloved_23CG034025
